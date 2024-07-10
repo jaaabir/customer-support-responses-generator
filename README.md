@@ -12,7 +12,7 @@ The model is trained using a sequence-to-sequence approach where the input is a 
 
 ## Demo
 
-Experience the model in action through [Streamlit app](https://streamlit.com).
+Experience the model in action through [Streamlit app](https://customer-support-responses-generator-fh5n5ekpqrasorwmlzeu4g.streamlit.app/).
 
 ## Setup Instructions
 
