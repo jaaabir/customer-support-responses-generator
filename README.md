@@ -44,5 +44,5 @@ To adjust the model parameters, edit the hyperparameters.py file and rerun the n
 
 Most models trained with 5-10 epochs performed well. However, the model using the latest pretext specified in hyperparameters.py yielded the best results so far.
 
-<img src="assets\eval_bleu.svg" alt="Evaluation BLEU score" style="width:300px;height:200px;">
-<img src="assets\eval_loss.svg" alt="Evaluation Loss" style="width:300px;height:200px;">
+<img src="assets\eval_bleu.svg" alt="Evaluation BLEU score" style="width:600px;height:400px;">
+<img src="assets\eval_loss.svg" alt="Evaluation Loss" style="width:600px;height:400px;">
